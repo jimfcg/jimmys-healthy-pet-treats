@@ -1,0 +1,22 @@
+<!-- shop.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shop</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="shop.html">Shop</a>
+    </nav>
+    <div class="container">
+        <h1>Shop</h1>
+        <p>Choose your pet treat size:</p>
+        <button onclick="buyProduct('Small')">Buy Small</button>
+        <button onclick="buyProduct('Large')">Buy Large</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

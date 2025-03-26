@@ -1,0 +1,19 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jimmy's Healthy Pet Treats</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="shop.html">Shop</a>
+    </nav>
+    <div class="container">
+        <h1>Welcome to Jimmy's Healthy Pet Treats!</h1>
+        <p>Healthy, homemade treats your pets will love.</p>
+    </div>
+</body>
+</html>

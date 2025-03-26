@@ -1,0 +1,4 @@
+/* script.js */
+function buyProduct(size) {
+    alert('You selected ' + size + ' size pet treat. Checkout feature coming soon!');
+}

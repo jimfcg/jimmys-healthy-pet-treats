@@ -1,0 +1,21 @@
+<!-- about.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="shop.html">Shop</a>
+    </nav>
+    <div class="container">
+        <h1>About Jimmy's Healthy Pet Treats</h1>
+        <p>Mission Statement: Providing nutritious treats for pets.</p>
+        <p>About Me: Your story here.</p>
+        <p>Contact: your-email@example.com</p>
+    </div>
+</body>
+</html>
